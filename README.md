@@ -1,4 +1,6 @@
-# Fecha de apertura del proyecto: 24 de enero de 2021
+# Texto a decimal Turtle
+* Fecha de apertura del proyecto: 24 de enero de 2021
+* Proyecto escolar
 
 Este programa se inspiró en una película denominada "Marte" donde un astronauta es abandonado en ese planeta porque sus compañeros lo dan por muerto cuando esto no ha sucedido. En esta película se aprovecha de un robot que es capaz de mover su cabeza para apuntar dieciséis posiciones que representan los dígitos hexadecimales de los caracteres ASCII.
 
