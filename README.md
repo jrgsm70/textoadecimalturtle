@@ -1,2 +1,5 @@
-# textoadecimalturtle
-Este programa emula la transmisión en hexadecimal de un código binario que se observa en la película «Marte»  En esa película se muestra una cámara que, en nuestro caso será Turtle que se desplaza angularmente para ir seleccionando los caracteres hexadecimales que conforman el mensaje proveniente de la Tierra que recibe el astronauta
+# Fecha de apertura del proyecto: 24 de enero de 2021
+
+Este programa se inspiró en una película denominada "Marte" donde un astronauta es abandonado en ese planeta porque sus compañeros lo dan por muerto cuando esto no ha sucedido. En esta película se aprovecha de un robot que es capaz de mover su cabeza para apuntar dieciséis posiciones que representan los dígitos hexadecimales de los caracteres ASCII.
+
+Este programa, escrito en Python, muestra como usar la librería "Turtle". El programa solicita una cadena de texto, la traduce a hesxadecimal y después se trazan radio vectores correspondientes a los dígitos hexadecimales.
